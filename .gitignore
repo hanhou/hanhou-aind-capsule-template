@@ -153,3 +153,5 @@ code/.vscode/**
 !code/.vscode/User/
 !code/.vscode/User/settings.json
 !code/.vscode/User/keybindings.json
+
+.vscode
