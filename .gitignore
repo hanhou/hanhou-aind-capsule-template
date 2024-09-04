@@ -147,3 +147,9 @@ dmypy.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+# New VS Code location
+code/.vscode/**
+!code/.vscode/User/
+!code/.vscode/User/settings.json
+!code/.vscode/User/keybindings.json
